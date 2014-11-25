@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B58CE42-3D6E-4E85-BF2D-27EC9BFBB9AE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hamburgerMenuNoStoryBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>92A078736F79AD99B0DF58B455B3E25B9BA8E02D</key>
+		<string>github.com:ranleung/hamburgerMenuNoStoryBoard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hamburgerMenuNoStoryBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>92A078736F79AD99B0DF58B455B3E25B9BA8E02D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ranleung/hamburgerMenuNoStoryBoard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>92A078736F79AD99B0DF58B455B3E25B9BA8E02D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92A078736F79AD99B0DF58B455B3E25B9BA8E02D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hamburgerMenuNoStoryBoard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
